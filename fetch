@@ -1,0 +1,8 @@
+#! /bin/bash
+
+echo " _______________  "
+echo "| /~~~~~~~~\ |||| [kr]  $(uname -r)"
+echo "||          |...| [os]  Arch Linux"
+echo "||          |   | [sh]  zsh 5.9"
+echo "| \________/ oo | [wm]  bspwm"
+echo " ~~~~~~~~~~~~~~~  "
